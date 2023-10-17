@@ -1,0 +1,7 @@
+# POST http://localhost:8000/products
+# Content-Type: application/json
+
+# {"name": "Tijolo Concreto","price":50}
+
+GET http://localhost:8000/products
+Content-Type: application/json 
